@@ -1,0 +1,12 @@
+com.example.my_first_app-jetified-window-1.0.0-beta04-0 /Users/santiago/.gradle/caches/transforms-3/032f4dff274e516110d9363a9793a3e3/transformed/jetified-window-1.0.0-beta04/res
+com.example.my_first_app-jetified-window-java-1.0.0-beta04-1 /Users/santiago/.gradle/caches/transforms-3/142c24f2530665bb6deb4123ab140714/transformed/jetified-window-java-1.0.0-beta04/res
+com.example.my_first_app-core-1.6.0-2 /Users/santiago/.gradle/caches/transforms-3/2579a7de00054bf46a8dbc332552f622/transformed/core-1.6.0/res
+com.example.my_first_app-jetified-annotation-experimental-1.1.0-3 /Users/santiago/.gradle/caches/transforms-3/3f96ca76068ab400b494bc7d541ee256/transformed/jetified-annotation-experimental-1.1.0/res
+com.example.my_first_app-debug-4 /Users/santiago/Documents/GitHub/flutter-roll_dice/android/app/src/debug/res
+com.example.my_first_app-main-5 /Users/santiago/Documents/GitHub/flutter-roll_dice/android/app/src/main/res
+com.example.my_first_app-pngs-6 /Users/santiago/Documents/GitHub/flutter-roll_dice/build/app/generated/res/pngs/debug
+com.example.my_first_app-resValues-7 /Users/santiago/Documents/GitHub/flutter-roll_dice/build/app/generated/res/resValues/debug
+com.example.my_first_app-rs-8 /Users/santiago/Documents/GitHub/flutter-roll_dice/build/app/generated/res/rs/debug
+com.example.my_first_app-mergeDebugResources-9 /Users/santiago/Documents/GitHub/flutter-roll_dice/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.example.my_first_app-mergeDebugResources-10 /Users/santiago/Documents/GitHub/flutter-roll_dice/build/app/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.example.my_first_app-merged_res-11 /Users/santiago/Documents/GitHub/flutter-roll_dice/build/app/intermediates/merged_res/debug

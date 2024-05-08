@@ -1,0 +1,4 @@
+#Wed May 08 01:44:44 CST 2024
+base.0=/Users/santiago/Documents/GitHub/flutter-roll_dice/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,1 @@
+ /Users/santiago/Documents/GitHub/flutter-roll_dice/.dart_tool/flutter_build/2a7b310480c473ebf6a2c24bc7bee4a3/native_assets.yaml: 
